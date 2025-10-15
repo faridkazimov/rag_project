@@ -1,0 +1,16 @@
+Project Titan - 2025 Progress Report
+
+Overview:
+Project Titan is an R&D initiative aimed at developing autonomous delivery drones. The year 2025 has been a year in which the project's initial field tests were successfully completed and significant technological milestones were reached.
+
+Technical Developments:
+The flight range of the drones has been increased by 40% to 70 kilometers thanks to new generation battery technology. Our route optimization algorithm, named "PathFinder V3," has improved delivery times by an average of 15%. The maximum carrying capacity measured during the tests was 5 kilograms.
+
+Field Tests and Results:
+A total of 200 hours of autonomous flight was successfully completed in field tests conducted in the rural areas of Nevşehir. The biggest challenge encountered during the tests was severe wind conditions. To address this challenge, a new software update is planned to improve the drones' stability system.
+
+Budget and Human Resources:
+The project's 2025 R&D budget was utilized at $2 million. The project team consists of a total of 15 people, including 12 engineers and 3 operations specialists.
+
+Future Plans:
+Our 2026 goal is to add night vision capabilities to the drones.
