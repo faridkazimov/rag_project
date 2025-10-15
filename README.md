@@ -2,7 +2,7 @@
 
 This project is an interactive web application that uses the Retrieval-Augmented Generation (RAG) architecture to answer natural language questions about the content of a single text document.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://ragproject-a9dq4num5grltk6nxhjcby.streamlit.app/])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ragproject-a9dq4num5grltk6nxhjcby.streamlit.app/)
 
 ---
 
@@ -52,3 +52,4 @@ Follow these steps to run the project on your local machine:
     ```bash
     streamlit run streamlit_app.py
     ```
+
