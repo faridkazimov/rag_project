@@ -1,0 +1,9 @@
+# Virtual environment directory
+venv/
+
+# File containing secret API keys
+.env
+
+# Temporary files created by Python
+__pycache__/
+*.pyc
